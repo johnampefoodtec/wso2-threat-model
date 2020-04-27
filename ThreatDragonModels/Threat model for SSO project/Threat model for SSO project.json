@@ -18,8 +18,8 @@
                 "height": 80
               },
               "position": {
-                "x": 534,
-                "y": 493
+                "x": 482,
+                "y": 474
               },
               "angle": 0,
               "id": "fad397ac-8b55-427d-acb3-855430b898c1",
@@ -45,35 +45,8 @@
                 "height": 80
               },
               "position": {
-                "x": 243,
-                "y": 501
-              },
-              "angle": 0,
-              "id": "41ff9bcd-8349-43ef-ab1e-cd7d0a3a6184",
-              "z": 2,
-              "hasOpenThreats": false,
-              "storesCredentials": true,
-              "attrs": {
-                ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
-                },
-                "text": {
-                  "text": "Soteria DB"
-                },
-                ".element-text": {
-                  "class": "element-text hasNoOpenThreats isInScope"
-                }
-              }
-            },
-            {
-              "type": "tm.Store",
-              "size": {
-                "width": 160,
-                "height": 80
-              },
-              "position": {
-                "x": 613,
-                "y": 337
+                "x": 674,
+                "y": 470
               },
               "angle": 0,
               "id": "6d4c4652-86e6-449d-ae6d-ccf8c8ecd961",
@@ -98,61 +71,8 @@
                 "height": 100
               },
               "position": {
-                "x": 539,
-                "y": 152
-              },
-              "angle": 0,
-              "id": "5b0475f8-157b-47c9-a441-6cbfa4b433d9",
-              "z": 4,
-              "hasOpenThreats": false,
-              "privilegeLevel": "High",
-              "attrs": {
-                ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
-                },
-                "text": {
-                  "text": "WSO2"
-                },
-                ".element-text": {
-                  "class": "element-text hasNoOpenThreats isInScope"
-                }
-              }
-            },
-            {
-              "type": "tm.Process",
-              "size": {
-                "width": 100,
-                "height": 100
-              },
-              "position": {
-                "x": 389,
-                "y": 334
-              },
-              "angle": 0,
-              "id": "d5dc4fa7-b0a5-4404-a77f-5a8147fd2515",
-              "z": 5,
-              "hasOpenThreats": false,
-              "attrs": {
-                ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
-                },
-                "text": {
-                  "text": "Soteria"
-                },
-                ".element-text": {
-                  "class": "element-text hasNoOpenThreats isInScope"
-                }
-              }
-            },
-            {
-              "type": "tm.Process",
-              "size": {
-                "width": 100,
-                "height": 100
-              },
-              "position": {
-                "x": 124,
-                "y": 351
+                "x": 284,
+                "y": 255
               },
               "angle": 0,
               "id": "a2e3f2f8-02d4-4370-9e5e-3c6c9bb71e83",
@@ -177,8 +97,8 @@
                 "height": 80
               },
               "position": {
-                "x": 1,
-                "y": 43
+                "x": 6,
+                "y": 18
               },
               "angle": 0,
               "id": "9e97e8fb-12c7-4d2c-9a15-bec2eecc795e",
@@ -203,34 +123,8 @@
                 "height": 80
               },
               "position": {
-                "x": 364,
-                "y": 12
-              },
-              "angle": 0,
-              "id": "06a89580-aaaa-4d5b-a1f7-fe80c7fc7cd2",
-              "z": 9,
-              "hasOpenThreats": false,
-              "attrs": {
-                ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
-                },
-                "text": {
-                  "text": "Brand Admin"
-                },
-                ".element-text": {
-                  "class": "element-text hasNoOpenThreats isInScope"
-                }
-              }
-            },
-            {
-              "type": "tm.Actor",
-              "size": {
-                "width": 160,
-                "height": 80
-              },
-              "position": {
-                "x": 558,
-                "y": 12
+                "x": 697,
+                "y": 9
               },
               "angle": 0,
               "id": "3ec669e7-cfe4-4aaf-8b97-7fe4a08e3b16",
@@ -255,8 +149,8 @@
                 "height": 80
               },
               "position": {
-                "x": 173,
-                "y": 14
+                "x": 242,
+                "y": 10
               },
               "angle": 0,
               "id": "dc64c5e7-dfbb-4629-b46f-3c146182b106",
@@ -282,7 +176,7 @@
               },
               "position": {
                 "x": 1,
-                "y": 140
+                "y": 212
               },
               "angle": 0,
               "id": "7af3a67f-8d7d-4145-af92-9ad59e832082",
@@ -337,32 +231,141 @@
               }
             },
             {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 33,
+                "y": 504
+              },
+              "angle": 0,
+              "id": "965c985a-772e-47ee-a7d5-7bacdc7ebd64",
+              "z": 28,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "Development"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 577,
+                "y": 319
+              },
+              "angle": 0,
+              "id": "b06c149c-0e31-4cfd-84e4-42cdb741353f",
+              "z": 29,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "WSO2 Instance"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 752,
+                "y": 227
+              },
+              "angle": 0,
+              "id": "c15a5b3b-7e94-4c43-87a7-8bf86ca84709",
+              "z": 30,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "Hazelcast\nCluster\nManager"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 463,
+                "y": 548
+              },
+              "target": {
+                "x": 783,
+                "y": 123
+              },
+              "vertices": [
+                {
+                  "x": 432,
+                  "y": 269
+                },
+                {
+                  "x": 451,
+                  "y": 197
+                },
+                {
+                  "x": 474,
+                  "y": 168
+                },
+                {
+                  "x": 560,
+                  "y": 150
+                }
+              ],
+              "id": "2c992eba-fd5f-45cc-a0be-d506180b11f0",
+              "z": 31,
+              "attrs": {}
+            },
+            {
               "type": "tm.Flow",
               "smooth": true,
               "source": {
-                "id": "06a89580-aaaa-4d5b-a1f7-fe80c7fc7cd2"
+                "id": "c15a5b3b-7e94-4c43-87a7-8bf86ca84709"
               },
               "target": {
-                "id": "d5dc4fa7-b0a5-4404-a77f-5a8147fd2515"
+                "id": "b06c149c-0e31-4cfd-84e4-42cdb741353f"
               },
               "vertices": [],
-              "id": "ec6c9f08-3b26-4855-b44e-6baae573cef7",
+              "id": "36ce28d5-6d9e-477f-821d-7d0bea55a424",
               "labels": [
                 {
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "Administer Users and\nRoles",
+                      "text": "Synchronize instances",
                       "font-weight": "400",
                       "font-size": "small"
                     }
                   }
                 }
               ],
-              "z": 15,
+              "z": 34,
               "hasOpenThreats": false,
-              "isEncrypted": true,
-              "isPublicNetwork": true,
               "attrs": {
                 ".marker-target": {
                   "class": "marker-target hasNoOpenThreats isInScope"
@@ -373,63 +376,16 @@
               }
             },
             {
-              "type": "tm.Boundary",
-              "smooth": true,
-              "source": {
-                "x": 192,
-                "y": 497
-              },
-              "target": {
-                "x": 472,
-                "y": 519
-              },
-              "vertices": [
-                {
-                  "x": 351,
-                  "y": 455
-                }
-              ],
-              "id": "699355e5-b391-4e62-aa3d-b4f914f8e7ff",
-              "z": 16,
-              "attrs": {}
-            },
-            {
-              "type": "tm.Boundary",
-              "smooth": true,
-              "source": {
-                "x": 484,
-                "y": 532
-              },
-              "target": {
-                "x": 788,
-                "y": 281
-              },
-              "vertices": [
-                {
-                  "x": 592,
-                  "y": 341
-                }
-              ],
-              "id": "4b884aff-f77b-45cb-909c-795d2cd3ee08",
-              "z": 17,
-              "attrs": {}
-            },
-            {
               "type": "tm.Flow",
               "smooth": true,
               "source": {
-                "id": "d5dc4fa7-b0a5-4404-a77f-5a8147fd2515"
+                "id": "b06c149c-0e31-4cfd-84e4-42cdb741353f"
               },
               "target": {
-                "id": "41ff9bcd-8349-43ef-ab1e-cd7d0a3a6184"
+                "id": "fad397ac-8b55-427d-acb3-855430b898c1"
               },
-              "vertices": [
-                {
-                  "x": 393,
-                  "y": 439
-                }
-              ],
-              "id": "d771ce88-19bb-43bf-98c4-3f807b4c2bbd",
+              "vertices": [],
+              "id": "bdc82eda-16e3-4c06-aa28-2e1e751674ab",
               "labels": [
                 {
                   "position": 0.5,
@@ -442,7 +398,7 @@
                   }
                 }
               ],
-              "z": 20,
+              "z": 35,
               "hasOpenThreats": false,
               "attrs": {
                 ".marker-target": {
@@ -457,29 +413,27 @@
               "type": "tm.Flow",
               "smooth": true,
               "source": {
-                "id": "d5dc4fa7-b0a5-4404-a77f-5a8147fd2515"
+                "id": "b06c149c-0e31-4cfd-84e4-42cdb741353f"
               },
               "target": {
-                "id": "5b0475f8-157b-47c9-a441-6cbfa4b433d9"
+                "id": "6d4c4652-86e6-449d-ae6d-ccf8c8ecd961"
               },
               "vertices": [],
-              "id": "3ae4ff44-d9e9-457d-a932-1e350e3ebb7f",
+              "id": "d0edff6d-ad62-43df-82c3-a27793edd73f",
               "labels": [
                 {
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "Administer users and\nroles",
+                      "text": "Filesystem",
                       "font-weight": "400",
                       "font-size": "small"
                     }
                   }
                 }
               ],
-              "z": 21,
+              "z": 36,
               "hasOpenThreats": false,
-              "isEncrypted": true,
-              "isPublicNetwork": true,
               "attrs": {
                 ".marker-target": {
                   "class": "marker-target hasNoOpenThreats isInScope"
@@ -490,29 +444,55 @@
               }
             },
             {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 12,
+                "y": 335
+              },
+              "angle": 0,
+              "id": "cd986256-8315-4734-8bc3-ae937d1319c0",
+              "z": 37,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "Brand Admin"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
               "type": "tm.Flow",
               "smooth": true,
               "source": {
-                "id": "3ec669e7-cfe4-4aaf-8b97-7fe4a08e3b16"
+                "id": "cd986256-8315-4734-8bc3-ae937d1319c0"
               },
               "target": {
-                "id": "5b0475f8-157b-47c9-a441-6cbfa4b433d9"
+                "id": "a2e3f2f8-02d4-4370-9e5e-3c6c9bb71e83"
               },
               "vertices": [],
-              "id": "5590d716-6c76-4739-9e57-e0f0b4870780",
+              "id": "218ac7b2-974e-41e3-983f-97de943b2141",
               "labels": [
                 {
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "Administer\nDeployment",
+                      "text": "Access logs",
                       "font-weight": "400",
                       "font-size": "small"
                     }
                   }
                 }
               ],
-              "z": 22,
+              "z": 38,
               "hasOpenThreats": false,
               "attrs": {
                 ".marker-target": {
@@ -520,6 +500,58 @@
                 },
                 ".connection": {
                   "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 453,
+                "y": 12
+              },
+              "angle": 0,
+              "id": "5718315d-5bcf-4326-9387-efa68df0bb60",
+              "z": 39,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "Foodtec IQ"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 546,
+                "y": 170
+              },
+              "angle": 0,
+              "id": "047dd666-cd7f-4cd4-a809-2fffcec1a106",
+              "z": 40,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "WSO2 Load\nBalancer"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
             },
@@ -530,23 +562,23 @@
                 "id": "9e97e8fb-12c7-4d2c-9a15-bec2eecc795e"
               },
               "target": {
-                "id": "5b0475f8-157b-47c9-a441-6cbfa4b433d9"
+                "id": "047dd666-cd7f-4cd4-a809-2fffcec1a106"
               },
               "vertices": [],
-              "id": "a764f8d1-355c-4a78-93cd-c2144fbc9d29",
+              "id": "d19c9b5c-2527-4965-8fa6-d560d125c421",
               "labels": [
                 {
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "Authenticate to\napplication",
+                      "text": "Application login",
                       "font-weight": "400",
                       "font-size": "small"
                     }
                   }
                 }
               ],
-              "z": 23,
+              "z": 41,
               "hasOpenThreats": false,
               "attrs": {
                 ".marker-target": {
@@ -564,28 +596,151 @@
                 "id": "dc64c5e7-dfbb-4629-b46f-3c146182b106"
               },
               "target": {
-                "id": "5b0475f8-157b-47c9-a441-6cbfa4b433d9"
+                "id": "047dd666-cd7f-4cd4-a809-2fffcec1a106"
               },
-              "vertices": [
-                {
-                  "x": 422,
-                  "y": 122
-                }
-              ],
-              "id": "1727c37c-4bfd-4cf1-bfca-fd8cbd8ccc73",
+              "vertices": [],
+              "id": "ba3ac291-4b1a-46b3-a39a-7c7e7ccd1929",
               "labels": [
                 {
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "Authenticate to\napplication",
+                      "text": "Application login",
                       "font-weight": "400",
                       "font-size": "small"
                     }
                   }
                 }
               ],
-              "z": 24,
+              "z": 42,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "id": "3ec669e7-cfe4-4aaf-8b97-7fe4a08e3b16"
+              },
+              "target": {
+                "id": "b06c149c-0e31-4cfd-84e4-42cdb741353f"
+              },
+              "vertices": [],
+              "id": "f6bd1262-76c3-4e62-8091-414e3711205e",
+              "labels": [
+                {
+                  "position": 0.5,
+                  "attrs": {
+                    "text": {
+                      "text": "Administer brands,\napplications, etc.",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 43,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "id": "5718315d-5bcf-4326-9387-efa68df0bb60"
+              },
+              "target": {
+                "id": "047dd666-cd7f-4cd4-a809-2fffcec1a106"
+              },
+              "vertices": [],
+              "id": "9ffd100e-9584-479b-b417-46f7c581bf84",
+              "labels": [
+                {
+                  "position": 0.5,
+                  "attrs": {
+                    "text": {
+                      "text": "Validate 2FA",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 44,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 322,
+                "y": 460
+              },
+              "angle": 0,
+              "id": "c51b44c4-9b3d-4c13-880e-c0319a228e55",
+              "z": 45,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "LDAP"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "id": "047dd666-cd7f-4cd4-a809-2fffcec1a106"
+              },
+              "target": {
+                "id": "c51b44c4-9b3d-4c13-880e-c0319a228e55"
+              },
+              "vertices": [],
+              "id": "de69a19d-425f-4cb7-9772-813550c0d08f",
+              "labels": [
+                {
+                  "position": 0.5,
+                  "attrs": {
+                    "text": {
+                      "text": "Authenticate Tech\nSupport",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 46,
               "hasOpenThreats": false,
               "attrs": {
                 ".marker-target": {
@@ -603,25 +758,85 @@
                 "id": "a2e3f2f8-02d4-4370-9e5e-3c6c9bb71e83"
               },
               "target": {
-                "id": "5b0475f8-157b-47c9-a441-6cbfa4b433d9"
+                "id": "047dd666-cd7f-4cd4-a809-2fffcec1a106"
               },
               "vertices": [],
-              "id": "8dc10cac-2a93-4771-b54e-487914ffcb50",
+              "id": "b68a3eda-f266-49c5-8fdc-6c89973fbacb",
               "labels": [
                 {
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "Proxy POS auth",
+                      "text": "Authentication\nprotocol",
                       "font-weight": "400",
                       "font-size": "small"
                     }
                   }
                 }
               ],
-              "z": 25,
+              "z": 47,
               "hasOpenThreats": false,
-              "isPublicNetwork": true,
+              "isEncrypted": true,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 1,
+                "y": 116
+              },
+              "angle": 0,
+              "id": "7ddb945c-02b3-46fb-b818-c8c8ccef1d5a",
+              "z": 48,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "Registration email"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "id": "7ddb945c-02b3-46fb-b818-c8c8ccef1d5a"
+              },
+              "target": {
+                "id": "047dd666-cd7f-4cd4-a809-2fffcec1a106"
+              },
+              "vertices": [],
+              "id": "8804818b-7ed0-4c1d-acfe-b6de0c15e4de",
+              "labels": [
+                {
+                  "position": 0.5,
+                  "attrs": {
+                    "text": {
+                      "text": "Initial registration",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 49,
+              "hasOpenThreats": false,
               "isEncrypted": true,
               "attrs": {
                 ".marker-target": {
@@ -636,95 +851,26 @@
               "type": "tm.Flow",
               "smooth": true,
               "source": {
-                "id": "5b0475f8-157b-47c9-a441-6cbfa4b433d9"
+                "id": "965c985a-772e-47ee-a7d5-7bacdc7ebd64"
               },
               "target": {
-                "id": "6d4c4652-86e6-449d-ae6d-ccf8c8ecd961"
+                "id": "047dd666-cd7f-4cd4-a809-2fffcec1a106"
               },
               "vertices": [],
-              "id": "b3af95fe-975a-4b8d-b851-268c73da759d",
+              "id": "1b190f35-6e1a-46b9-81e8-73f023620575",
               "labels": [
                 {
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "Artifact access\n(filesystem)",
+                      "text": "User import tool",
                       "font-weight": "400",
                       "font-size": "small"
                     }
                   }
                 }
               ],
-              "z": 26,
-              "hasOpenThreats": false,
-              "attrs": {
-                ".marker-target": {
-                  "class": "marker-target hasNoOpenThreats isInScope"
-                },
-                ".connection": {
-                  "class": "connection hasNoOpenThreats isInScope"
-                }
-              }
-            },
-            {
-              "type": "tm.Flow",
-              "smooth": true,
-              "source": {
-                "id": "5b0475f8-157b-47c9-a441-6cbfa4b433d9"
-              },
-              "target": {
-                "id": "fad397ac-8b55-427d-acb3-855430b898c1"
-              },
-              "vertices": [],
-              "id": "699945bc-b047-4fb6-94bd-aae7a3d18e3f",
-              "labels": [
-                {
-                  "position": 0.5,
-                  "attrs": {
-                    "text": {
-                      "text": "DB Access",
-                      "font-weight": "400",
-                      "font-size": "small"
-                    }
-                  }
-                }
-              ],
-              "z": 27,
-              "hasOpenThreats": false,
-              "isEncrypted": true,
-              "attrs": {
-                ".marker-target": {
-                  "class": "marker-target hasNoOpenThreats isInScope"
-                },
-                ".connection": {
-                  "class": "connection hasNoOpenThreats isInScope"
-                }
-              }
-            },
-            {
-              "type": "tm.Flow",
-              "smooth": true,
-              "source": {
-                "id": "dc64c5e7-dfbb-4629-b46f-3c146182b106"
-              },
-              "target": {
-                "id": "d5dc4fa7-b0a5-4404-a77f-5a8147fd2515"
-              },
-              "vertices": [],
-              "id": "c1c0bcb3-8688-4f24-9507-c169cab9df1d",
-              "labels": [
-                {
-                  "position": 0.5,
-                  "attrs": {
-                    "text": {
-                      "text": "Administer Soteria",
-                      "font-weight": "400",
-                      "font-size": "small"
-                    }
-                  }
-                }
-              ],
-              "z": 28,
+              "z": 50,
               "hasOpenThreats": false,
               "attrs": {
                 ".marker-target": {
@@ -738,7 +884,7 @@
           ]
         },
         "size": {
-          "height": 2601,
+          "height": 2923.531982421875,
           "width": 2672
         }
       }
